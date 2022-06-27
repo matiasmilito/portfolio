@@ -64,7 +64,7 @@ const Navbar = () => {
           <div className="hidden lg:flex flex fixed flex-col top-[35%] left-0">
               <ul>
                   <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
-                      <a className="flex justify-between items-center w-full text-gray-300" href="/">
+                      <a className="flex justify-between items-center w-full text-gray-300" href="https://ar.linkedin.com/in/matiasmilito">
                           LinkedIn <FaLinkedin size={30}/>
                       </a>
                   </li>
@@ -74,12 +74,12 @@ const Navbar = () => {
                       </a>
                   </li>
                   <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-black">
-                      <a className="flex justify-between items-center w-full text-gray-300" href="/">
+                      <a className="flex justify-between items-center w-full text-gray-300" href="https://github.com/matiasmilito">
                           GitHub <FaGithub size={30}/>
                       </a>
                   </li>
                   <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-green-900">
-                      <a className="flex justify-between items-center w-full text-gray-300" href="/">
+                      <a className="flex justify-between items-center w-full text-gray-300" href="https://wa.me/543412553267">
                           WhatsApp <FaWhatsapp size={30}/>
                       </a>
                   </li>
